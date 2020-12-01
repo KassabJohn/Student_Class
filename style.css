@@ -1,0 +1,7 @@
+.blue{
+    color: dodgerblue;
+}
+
+body {
+    background: lightblue url("jsBG.png") no-repeat fixed center;
+}

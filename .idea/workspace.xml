@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5083287-127e-4ba7-b817-484da5f607a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jPZtXZ0UUhh4rrn633UV0kq5x4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../JS_TP2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5083287-127e-4ba7-b817-484da5f607a7" name="Default Changelist" comment="" />
+      <created>1603707902446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603707902446</updated>
+      <workItem from="1603707903639" duration="318000" />
+      <workItem from="1603708403440" duration="5723000" />
+      <workItem from="1603714708171" duration="2671000" />
+      <workItem from="1603728891899" duration="2862000" />
+      <workItem from="1603732948057" duration="800000" />
+      <workItem from="1603747995716" duration="1707000" />
+      <workItem from="1603749877915" duration="327000" />
+      <workItem from="1603826106918" duration="48000" />
+      <workItem from="1604001597721" duration="1949000" />
+      <workItem from="1604158017233" duration="9249000" />
+      <workItem from="1604440672538" duration="211000" />
+      <workItem from="1604441021895" duration="277000" />
+      <workItem from="1604575409375" duration="1437000" />
+      <workItem from="1604750942537" duration="63000" />
+      <workItem from="1604794954431" duration="232000" />
+      <workItem from="1604852315600" duration="254000" />
+      <workItem from="1605353044686" duration="2487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1603712163700">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1603712163700" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604162308846">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1604162308846" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1605355429668">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605355429668" />
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603749479722">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1603749479722" />
+    <state x="0" y="233" width="1507" height="588" key="dock-window-1" timestamp="1604168310123">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="233" width="1507" height="588" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1604168310123" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1603709469185">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1603709469185" />
+  </component>
+</project>

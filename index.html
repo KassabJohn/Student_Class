@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>
+        Student Classroom JS TP
+    </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script></head>
+
+<body>
+
+<section>
+    <table>
+        <tr>
+            <td>
+                <form>
+                    <div>
+                        <label>Lastname</label>
+                        <label for="firstname"></label><input required minlength="2" maxlength="20" class="form-control" type="text" name="firstname" id="firstname">
+                    </div>
+                    <div>
+                        <label>Firstname</label>
+                        <label for="lastname"></label><input required minlength="2" maxlength="20" class="form-control" type="text" name="lastname" id="lastname">
+                    </div>
+                    <div>
+                        <label>Age</label>
+                        <label for="age"></label><input value="20" min="1" max="100" class="form-control" type="number" name="age" id="age">
+                    </div>
+                    <div>
+                        <center>
+                            <br>
+                            <button type="submit" value="Submit" class="btn btn-primary">Submit</button>
+                            <br><br>
+                        </center>
+                    </div>
+                </form>
+
+                <table class="list" id="StudentList">
+                    <thead id="thead">
+
+                    <tr>
+                        <th>Lastname &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
+                        <th>Firstname &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
+                        <th>Age</th>
+                        <th></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+        </tr>
+        </td>
+    </table>
+</section>
+
+<br>
+<section>
+    <div class="form-group row">
+        <div class="col-xs-2">
+            <label>Search student by <i class="blue">lastname</i></label>
+    <div class="input-group">
+        <span class="input-group-addon"> 👥 </span>
+        <input type="search" class="form-control">
+    </div>
+        </label>
+    </div>
+    </div>
+    <ul><li></li></ul>
+</section>
+</div>
+
+<script src="script.js"></script>
+</body>
+
+</html>
