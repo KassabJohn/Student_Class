@@ -1,1 +1,5 @@
-# Student_Class
+# Student Class
+
+CRUD Student
+-function :
+  absent / present / crud / search
